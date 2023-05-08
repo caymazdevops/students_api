@@ -1,0 +1,18 @@
+[
+  {
+    "_id": "644cac3244b3ea2bee72f99b",
+    "first_name": "Zehra",
+    "last_name": "Caymaz",
+    "email": "zehra@gmail.com",
+    "password": "123456",
+    "__v": 0
+  },
+  {
+    "_id": "644cac5944b3ea2bee72f99f",
+    "first_name": "Esila",
+    "last_name": "Caymaz",
+    "email": "esila@gmail.com",
+    "password": "12345",
+    "__v": 0
+  }
+]
